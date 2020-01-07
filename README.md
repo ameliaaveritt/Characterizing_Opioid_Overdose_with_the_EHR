@@ -48,7 +48,7 @@ If you encounter a bug or any other difficulty, please email Amelia J. Averitt a
  
 	 This occurs when you enter a transaction, a query fails, and you try the 		same transaction again on the same connection. To resolve this, submit the following two R commands.
 
-		 rollback <- paste("rollback;")
+		rollback <- paste("rollback;")
 
 		DatabaseConnector::executeSql(conn, rollback, progressBar = TRUE, reportOverallTime = FALSE)
 
