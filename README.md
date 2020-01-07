@@ -1,6 +1,3 @@
-# Characterizing_Opioid_Overdose_with_the_EHR
-Scripts to replicate our JAMIA Open research, "Characterizing non-heroin opioid overdoses using electronic health records."
-
 Thank you for contributing to this research project! This research seeks to characterize non-heroin opioid overdoses from electronic health record (EHR) data. To this end, we are collecting data from the OHDSI community to better characterize patterns across sites.
 
 **To participate in this research, collaborators will need to run  one.R script, --** CharacterizingTheOpioidEpidemic_OMOP_NonDocked.R
