@@ -1,8 +1,10 @@
 Thank you for contributing to this research project! This research seeks to characterize non-heroin opioid overdoses from electronic health record (EHR) data. To this end, we are collecting data from the OHDSI community to better characterize patterns across sites.
 
-This research leverages computational tools and methods to characterize the opioid epidemic at the individual-level using electronic health record (EHR) data that is formatted according to the OMOP Common Data Model (CDM). The corresponding R script queries against your OMOP-formatted data and runs analyses to help characterize (i) the trend in opioid overdoses; (ii) the demographics of overdose patients and a set of match controls; and (iii) the healthcare encounters before and after an individual’s first overdose event. This research was previously completed at Columbia University Irving Medical Center (read more about it:  [here](https://academic.oup.com/jamiaopen/advance-article/doi/10.1093/jamiaopen/ooz063/5643943)), but we would like to replicate our methods at other sites to learn more about individual-level trends in opioid misuse
+This research leverages computational tools and methods to characterize the opioid epidemic at the individual-level using electronic health record (EHR) data that is formatted according to the OMOP Common Data Model (CDM). The corresponding R script queries against your OMOP-formatted data and runs analyses to help characterize (i) the trend in opioid overdoses; (ii) the demographics of overdose patients and a set of match controls; and (iii) the healthcare encounters before and after an individual’s first overdose event. This research was previously completed at Columbia University Irving Medical Center (read more about it:  [here](https://academic.oup.com/jamiaopen/advance-article/doi/10.1093/jamiaopen/ooz063/5643943)), but we would like to replicate our methods at other sites to learn more about individual-level trends in opioid misuse.
 
-**Instructions for Native_Non_Docked_Opioid_Project**
+A dockerized version of this study and other accomodation of flavors of SQL is forthcoming!
+
+**Instructions for Native_Non_Docked_Opioid_Project** 
 
 **To participate in this research, collaborators will need to run  one.R script, --** CharacterizingTheOpioidEpidemic_OMOP_NonDocked.R
 
