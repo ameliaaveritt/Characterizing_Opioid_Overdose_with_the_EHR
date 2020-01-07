@@ -1,0 +1,1 @@
+SELECT DISTINCT subject_id FROM @results_database_schema.@target_cohort_table
